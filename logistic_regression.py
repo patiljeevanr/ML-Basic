@@ -1,8 +1,3 @@
-
-# Code source: Gaël Varoquaux
-# Modified for documentation by Jaques Grobler
-# License: BSD 3 clause
-
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import linear_model, datasets
